@@ -139,3 +139,4 @@ dist
 .idea/*
 app/static/*
 build/*
+*.iml

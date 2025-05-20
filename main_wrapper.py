@@ -1,3 +1,5 @@
+import os
+
 import uvicorn
 from app.main import app  # Import FastAPI app from app/main.py
 
